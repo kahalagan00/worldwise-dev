@@ -5,6 +5,7 @@ Embark on a journey to relive your greatest adventures with Worldwise, the ultim
 ## Tools
 
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 - ![CSS Modules](https://img.shields.io/badge/CSS_Modules-%23007bff?style=for-the-badge&logo=cssmodules&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
